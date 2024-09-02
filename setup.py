@@ -3,7 +3,7 @@ import os
 from cx_Freeze import setup, Executable
 
 # Lista de arquivos a serem incluídos no build
-files = ['login.ico','welcome.gif'] 
+files = ['login.ico','welcome.gif','background_image.jpg'] 
 
 # Comando para esconder o console
 if sys.platform == 'win32':
