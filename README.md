@@ -1,4 +1,4 @@
-# Sistema de Login com Tkinter
+# LoginSystemControl
 
 Este projeto é um sistema de login simples desenvolvido com a biblioteca Tkinter do Python. Inclui funcionalidades para registro de usuário e login, com bloqueio de conta após várias tentativas de login malsucedidas.
 
